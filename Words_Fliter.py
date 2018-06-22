@@ -1,5 +1,5 @@
 class WordsFliter(object):
-    def getWords():
+    def getWords(self):
         words_bank=[]
         with open("SensitiveWords.txt") as words_file:
             words=words_file.readlines()
