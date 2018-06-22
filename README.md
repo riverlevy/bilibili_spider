@@ -50,7 +50,7 @@ youtube-uoload：https://github.com/tokland/youtube-upload
 
 学号，20172106**
 
-学校：北京有点小学
+学校：北邮
 
 分工：
 
